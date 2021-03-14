@@ -48,7 +48,7 @@ Quarto, utilize o [Insomnia](https://insomnia.rest/), para acessar os recursos d
 
 Este sistema conta com os seguintes recursos, acessados pelo endereço base [http://localhost:8080](http://localhost:8080) e utilizando os métodos do http:
 
-Cadastro de Fabricante
+#### Cadastro de Fabricante
 
 
 | Método | Enderço           | Recurso               |
