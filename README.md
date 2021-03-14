@@ -50,7 +50,6 @@ Este sistema conta com os seguintes recursos, acessados pelo endereço base [htt
 
 #### Cadastro de Fabricante
 
-
 | Método | Enderço           | Recurso               |
 |--------|-------------------|-----------------------|
 | GET    | /fabricantes      | listagem              |
@@ -60,11 +59,35 @@ Este sistema conta com os seguintes recursos, acessados pelo endereço base [htt
 | DELETE | /fabricantes/{id} | exclusão              |
  	 	
 
-Cadastro de Modelo
+#### Cadastro de Modelo
 
-Cadastro de Opcionais
+| Método | Enderço       | Recurso               |
+|--------|---------------|-----------------------|
+| GET    | /modelos      | listagem              |
+| GET    | /modelos/{id} | localizar um registro |
+| POST   | /modelos      | inclusão              |
+| PUT    | /modelos      | alteração             |
+| DELETE | /modelos/{id} | exclusão              |
 
-Cadastro de Carros
+#### Cadastro de Opcionais
+
+| Método | Enderço         | Recurso               |
+|--------|-----------------|-----------------------|
+| GET    | /opcionais      | listagem              |
+| GET    | /opcionais/{id} | localizar um registro |
+| POST   | /opcionais      | inclusão              |
+| PUT    | /opcionais      | alteração             |
+| DELETE | /opcionais/{id} | exclusão              |
+
+#### Cadastro de Carros
+
+| Método | Enderço      | Recurso               |
+|--------|--------------|-----------------------|
+| GET    | /carros      | listagem              |
+| GET    | /carros/{id} | localizar um registro |
+| POST   | /carros      | inclusão              |
+| PUT    | /carros      | alteração             |
+| DELETE | /carros/{id} | exclusão              |
 
 [Voltar ao Índice](#salescar)
 
