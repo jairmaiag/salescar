@@ -8,7 +8,7 @@ Projeto para cadastro de veículos para venda (backend).
   - [Requisitos](#requisitos)
   - [Executando](#executando)
   - [Recursos](#recursos)
-- [Dúvidas](#duvidas)
+- [Dúvidas](#dúvidas)
 
 ## Iniciando
 
@@ -91,7 +91,7 @@ Este sistema conta com os seguintes recursos, acessados pelo endereço base [htt
 
 [Voltar ao Índice](#salescar)
 
-### Duvidas
+### Dúvidas
 
 Em caso de dúvidas entre em contato com [jairmaiag@gmail.com](jairmaiag@gmail.com)
 
