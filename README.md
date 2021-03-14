@@ -8,7 +8,7 @@ Projeto para cadastro de veículos para venda (backend).
   - [Requisitos](#requisitos)
   - [Executando](#executando)
   - [Recursos](#recursos)
-  	-[Cadastro de Carros](#cadastro de Carros)
+  	 - [Cadastro de Carros](#cadastro de Carros)
 - [Dúvidas](#dúvidas)
 
 ## Iniciando
