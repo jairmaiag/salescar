@@ -29,7 +29,7 @@ Ter os programas abaixo já instalados e rodando:
 
 ### Banco de dados
 
-arquivo [scriptDDLMySQL.sql](/salescar/src/test/resources/scriptDDLMySQL.sql)
+arquivo [scriptDDLMySQL.sql](/src/test/resources/scriptDDLMySQL.sql)
 
 [Voltar ao Índice](#salescar)
 
