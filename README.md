@@ -29,7 +29,9 @@ Ter os programas abaixo já instalados e rodando:
 
 ### Banco de dados
 
-arquivo [scriptDDLMySQL.sql](/src/test/resources/scriptDDLMySQL.sql)
+Acesse o banco MySQL como root e execute os comandos do arquivo [scriptDDLMySQL.sql](/src/test/resources/scriptDDLMySQL.sql), para geração do banco de dados.
+
+Após a execusão dos comandos do arquivo acima, execute os comandos do arquivo [scriptDMLMySQL.sql](/src/test/resources/scriptDMLMySQL.sql).
 
 [Voltar ao Índice](#salescar)
 
