@@ -6,6 +6,7 @@ Projeto para cadastro de veículos para venda (backend).
 
 - [Iniciando](#iniciando)
   - [Requisitos](#requisitos)
+  - [Banco de dados](#banco-de-dados)
   - [Executando](#executando)
   - [Recursos](#recursos)
 - [Dúvidas](#dúvidas)
@@ -24,6 +25,11 @@ Ter os programas abaixo já instalados e rodando:
 3. Saber o usuário e senha padrão do MySQL.
 4. [Insomnia](https://insomnia.rest/) versão 2021.1.1
 
+[Voltar ao Índice](#salescar)
+
+### Banco de dados
+
+arquivo [scriptDDLMySQL.sql](#salescar/src/test/resources/scriptDDLMySQL.sql)
 [Voltar ao Índice](#salescar)
 
 ### Executando
